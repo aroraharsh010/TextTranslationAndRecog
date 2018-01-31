@@ -1,4 +1,4 @@
-package com.aroraharsh010.textrecog;
+package com.aroraharsh010.textrecog;//Calls a background task to translate obtained text from ocr.
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
